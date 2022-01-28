@@ -1,0 +1,3 @@
+﻿  소스.c
+c:\users\yeonhee\source\repos\유동_encoder\소스.c(32): warning C4101: 'diff' :참조되지 않은 지역 변수입니다.
+  Project2.vcxproj -> C:\Users\yeonhee\source\repos\유동_encoder\Debug\Project2.exe
