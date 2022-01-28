@@ -31,6 +31,6 @@
 ![image](https://user-images.githubusercontent.com/71878202/151577658-db6a6671-cd25-4fd6-800b-bb7563d349fe.png)  
 [19011824_이연희_과제5.pdf](https://github.com/yeonx/image-processing/files/7959950/19011824_._.5.pdf)
 
-## Mindterm
+## Midterm
 [19011824_이연희_중간.pdf](https://github.com/yeonx/image-processing/files/7960059/19011824_._.pdf)
 
