@@ -1,0 +1,3 @@
+﻿  소스.c
+c:\users\yeonhee\source\repos\assignment1\소스.c(36): warning C4101: 'Y' :참조되지 않은 지역 변수입니다.
+  Project99.vcxproj -> C:\Users\yeonhee\source\repos\assignment1\Debug\Project99.exe
